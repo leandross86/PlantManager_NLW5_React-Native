@@ -14,8 +14,9 @@
   <img alt="Github Forks" src="https://img.shields.io/github/forks/leandross86/PlantManager_NLW5_React-Native?style=social" />
 </p>
 
-
+<p align="center">
 <img src="./src/assets/Plant.gif"/>
+</p>
 
 ## Objetivo
 
