@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { useNavigation } from '@react-navigation/core';
 import { View, StyleSheet, Text, FlatList, ActivityIndicator } from 'react-native';
 
-import { PlantProps } from '../libs/store';
+import { PlantProps } from '../libs/storage';
 import { Header } from '../components/Header';
 import { Load } from '../components/Load';
 import { EnvironmentButton } from '../components/EnvironmentButton';
